@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LUCCASKJK
 - Estou interessado em tecnologias    
-- 🌱 I’m currently learning sobre  programação e criação de conteúdos 
-- 💞️ I’m looking to collaborate com
+- 🌱 I’m currently learning sobre  programação e criação de conteúdos ha
+- 💞️ I’m looking to collaborate com  meu colégio
 - 📫 How to reach me  atravésdas minhas redes sociais ou e-mail
 
 <!---
