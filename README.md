@@ -2,7 +2,7 @@
 - Estou interessado em tecnologias    
 - 🌱 I’m currently learning sobre  programação e criação de conteúdos ha
 - 💞️ I’m looking to collaborate com  meu colégio
-- 📫 How to reach me  atravésdas minhas redes sociais ou e-mail
+- 📫 How to reach me  através das minhas redes sociais ou e-mail
 
 <!---
 LUCCASKJK/LUCCASKJK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
