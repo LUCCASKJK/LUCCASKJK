@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @LUCCASKJK
-- Estou interessado em tecnologias;    
-- 🌱 I’m currently learning sobre  programação e criação de conteúdos;
-- 💞️ Odeio pobres!
-- 📫 How to reach me  através das minhas redes sociais ou e-mail;
+Instagram- @luccaskkjk
+Tiktok- wo_luccas
+Email- lucasadriano2@gmail.com
